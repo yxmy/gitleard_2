@@ -5,4 +5,4 @@ Git tracks changes of files
 first modify
 second modify
 create branch quick
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
